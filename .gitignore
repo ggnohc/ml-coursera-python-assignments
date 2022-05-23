@@ -109,3 +109,4 @@ venv.bak/
 *-solved.ipynb
 
 .idea/
+.DS_Store
